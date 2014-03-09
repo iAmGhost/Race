@@ -6,7 +6,7 @@ I've modified it to shooter game later, for more fun.
 
 Works well on 16000000Hz.
 
-Video: http://youtu.be/yT9ZiXBHRwg
+Video: http://youtu.be/W4Vz_-td5j8
 
 Used Libraries
 =====
